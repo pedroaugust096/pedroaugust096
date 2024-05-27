@@ -29,7 +29,7 @@ Procuro me inserir no mercado de trabalho como desenvolvedor back-end júnior/tr
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedroaugust096&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Meus Projetos e Trilhas de Estudo
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroaugust096&repo=DIO-Javascript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pedroaugust096/DIO-Javascript)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroaugust096&repo=DIO-Logica-de-Programacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pedroaugust096/DIO-Logica-de-Programacao)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroaugust096&repo=CursoEmVideo-Aulas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pedroaugust096/CursoEmVideo-Aulas)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pedroaugust096&repo=Santander-2024-Fundamentos-de-IA-para-Devs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pedroaugust096/Santander-2024-Fundamentos-de-IA-para-Devs)
 
